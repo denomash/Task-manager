@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 594682357416,
+      "title": "Setup workshop",
+      "description": "Setup workshop slides,",
+      "status": "backlog"
+    },
+    {
+      "id": 158211371813,
+      "title": "Title 1",
+      "description": "Description 1",
+      "status": "inReview"
+    },
+    {
+      "id": 278364497951,
+      "title": "Title 2",
+      "description": "Description 2",
+      "status": "inProgres"
+    }
+  ]
+}
